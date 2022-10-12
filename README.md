@@ -8,4 +8,4 @@ This was a part of the [The Complete 2021 Flutter Development Bootcamp with Dart
 
 ## Screenshots
 
-![Screenshot](/../images/s01.png?raw=true "Screenshot")
+![Demo gif](/../images/demo.gif?raw=true "Demo gif")
